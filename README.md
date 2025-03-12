@@ -13,3 +13,9 @@ Ce projet, réalisé avec Canva et basé sur des enseignements en comportement d
 - Proposer des recommandations pour améliorer l'expérience client (chatbox, éco-responsabilité, garanties).
 - Optimiser les stratégies marketing selon les attentes des profils étudiés.
 - Le projet offre des solutions pour renforcer la satisfaction client et l'image de marque de Swatch.
+
+*⚙️ Comment utiliser ce projet ?*
+
+- Téléchargez le fichier sur github.
+- Parcourez les différentes slides pour explorer les données, comparer les indicateurs, et suivre le cheminement narratif du projet.
+
