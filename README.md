@@ -18,4 +18,3 @@ Ce projet, réalisé avec Canva et basé sur des enseignements en comportement d
 
 - Téléchargez le fichier sur github.
 - Parcourez les différentes slides pour explorer les données, comparer les indicateurs, et suivre le cheminement narratif du projet.
-
